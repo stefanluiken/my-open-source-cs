@@ -109,7 +109,7 @@ Course(s) | University | Duration | Effort
 `Network Security`
 
 Course(s) | University | Duration | Effort
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Cyber Security Base: Introduction to Cyber Security](https://cybersecuritybase.mooc.fi/module-1) | Youtube series | 2 weeks | 8 hours/week 
 [Cyber Security Base: Securing Software](https://cybersecuritybase.mooc.fi/module-2.1) | Youtube series | 2 weeks | 8 hours/week 
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | 6 weeks | 7-13 hours/week 
@@ -126,7 +126,7 @@ Course(s) | University | Duration | Effort
 `algorithms`
 
 Course(s) | University | Duration | Effort
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: 
 [Data structures and algorithms](https://cybersecuritybase.mooc.fi/module-1) | Youtube series | 2 weeks | 8 hours/week 
 [Cracking the coding interview](https://cybersecuritybase.mooc.fi/module-1) | Youtube series | 2 weeks | 8 hours/week 
 
@@ -141,7 +141,7 @@ Course(s) | University | Duration | Effort
 `relational databases`
 
 Course(s) | University | Duration | Effort
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| Youtube series | 2 weeks | 10 hours/week
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| Youtube series | 2 weeks | 10 hours/week
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| Youtube series | 2 weeks | 10 hours/week
