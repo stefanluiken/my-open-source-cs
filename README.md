@@ -37,7 +37,7 @@ The curriculum is designed as follows:
   - [Core Systems and Security](#core-systems-and-security)
   - [Core Theory](#core-theory)
   - [Core applications](#core-applications)
-- [Advanced CS](#advanced-cs)
+- [Specialization CS](#specialization-cs)
   - [Software Engineering](#software-engineering)
 ---
 
@@ -52,7 +52,7 @@ The curriculum is designed as follows:
 
 Progress | Course(s) | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- Finished | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | Harvard University | 12 weeks | 20 hours/week 
+ Finished ! | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | Harvard University | 12 weeks | 20 hours/week 
 
 ### Introduction to Programming
 
@@ -62,7 +62,7 @@ Progress | Course(s) | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- Finished | [Head First Java 2nd Edition O'Reilly](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208) | Literature | 5 weeks | 10 hours/week 
+ Finished ! | [Head First Java 2nd Edition O'Reilly](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208) | Literature | 5 weeks | 10 hours/week 
 
 ## Core CS
 
@@ -77,9 +77,9 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- Finished | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
- Finished | [Java Progamming I](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
- Finished | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
+ Finished ! | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
+ Finished ! | [Java Progamming I](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
+ Finished ! | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
 
 ### Core Math
 **Topics covered**:
@@ -123,7 +123,7 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-In progress! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
+In progress ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
  Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
 
 ### Core Applications
@@ -143,7 +143,7 @@ Course(s) | Progress | University | Duration | Effort
  Assigned | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
  Assigned | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | The University of British Columbia | 6 weeks | 10 hours/week
 
-## Advanced CS
+## Specialization CS
 
 ### Software Engineering
 
