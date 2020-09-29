@@ -75,7 +75,7 @@ Course(s) | University | Duration | Effort
 `software design`
 
 Course(s) | University | Duration | Effort
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Computing Tools for CS Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
 [Java Progamming I](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | University of Helsinki | 7 week | 15-20 hours/week
 [Java Programming II](https://www.coursera.org/learn/programming-languages) | University of Helsinki | 7 week | 15-20 hours/week
@@ -89,7 +89,7 @@ Course(s) | University | Duration | Effort
 `O-notation`
 
 Course(s) | University | Duration | Effort
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Youtube series | 2 weeks | 8 hours/week 
 [Pre-University Calculus](https://www.edx.org/course/pre-university-calculus-2) | TU Delft | 8 weeks | 8 hours/week 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |  MIT | 14 weeks | 12 hours/week 
@@ -145,7 +145,7 @@ Course(s) | University | Duration | Effort
 [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| Youtube series | 2 weeks | 10 hours/week
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| Youtube series | 2 weeks | 10 hours/week
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| Youtube series | 2 weeks | 10 hours/week
-Devops
+Devops - 
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Youtube series | 6 weeks | 10 hours/week
 
 ## Advanced CS
