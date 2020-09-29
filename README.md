@@ -74,8 +74,6 @@ Course(s) | Progress | University | Duration | Effort
 `Git`
 `IDE`
 `static typing`
-`data structures`
-`software design`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
@@ -103,7 +101,6 @@ Not started yet | [Calculus 1C: Coordinate Systems & Infinite Series](https://ww
 `computer architecture`
 `memory`
 `assembly`
-`compilers`
 `operating systems`
 `Secure Design`
 `Network Security`
@@ -120,28 +117,23 @@ Not started yet | [Build a Modern Computer from First Principles: Nand to Tetris
 **Topics covered**:
 `sorting and searching`
 `O-notation`
-`randomized algorithms`
-`graph search`
-`shortest paths`
 `data structures`
 `algorithms`
 `interviewing`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-In progress! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574 | Literature | 10 weeks | 12 hours/week  
+In progress! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
 Not started yet | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
 
 ### Core Applications
 
 **Topics covered**:
+`databases`
 `software engineering`
 `Agile methodology`
-`REST`
 `DevOps`
-`software specifications`
 `refactoring`
-`relational databases`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
