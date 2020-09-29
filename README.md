@@ -2,6 +2,11 @@
 <p align="center">
   My Open Source education in computer science
 </p>
+<p align="center">
+  <a href="https://github.com/stefanluiken/my-open-source-cs">
+	<img alt="My Open Source CS Degree" src="open-cs.png">
+  </a>
+</p>
 
 
 # Content
