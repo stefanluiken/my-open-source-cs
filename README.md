@@ -26,15 +26,15 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.0.`
+**Program version**: `1.0.1`
 
-- [Basics CS](#intro-cs)
+- [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Introduction to Programming](#introduction-to-programming)
 - [Core CS](#core-cs)
   - [Core Programming](#core-programming)
   - [Core Math](#core-math)
-  - [Core Systems and Security](#core-systems)
+  - [Core Systems and Security](#core-systems-and-security)
   - [Core Theory](#core-theory)
   - [Core applications](#core-applications)
 - [Advanced CS](#advanced-cs)
@@ -50,9 +50,9 @@ The curriculum is designed as follows:
 `basic programming`
 `basic data structures and algorithms`
 
-Course(s) | Progress | University | Duration | Effort
+Progress | Course(s) | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | Finished | Harvard University | 12 weeks | 20 hours/week 
+ Finished | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | Harvard University | 12 weeks | 20 hours/week 
 
 ### Introduction to Programming
 
@@ -62,7 +62,7 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208) | Finished | Literature | 5 weeks | 10 hours/week 
+[Head First Java 2nd Edition O'Reilly](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208) | Finished | Literature | 5 weeks | 10 hours/week 
 
 ## Core CS
 
@@ -79,7 +79,7 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Computing Tools for CS Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | Finished | University of Helsinki | 1 week | 8-10 hours/week
+[Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | Finished | University of Helsinki | 1 week | 8-10 hours/week
 [Java Progamming I](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Finished | University of Helsinki | 7 week | 15-20 hours/week
 [Java Programming II](https://www.coursera.org/learn/programming-languages) | Finished | University of Helsinki | 7 week | 15-20 hours/week
 
@@ -87,9 +87,7 @@ Course(s) | Progress | University | Duration | Effort
 **Topics covered**:
 `Algebra`
 `Calculus`
-`discrete mathematics`
 `mathematical proofs`
-`O-notation`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
@@ -121,11 +119,13 @@ Course(s) | Progress | University | Duration | Effort
 
 **Topics covered**:
 `sorting and searching`
+`O-notation`
 `randomized algorithms`
 `graph search`
 `shortest paths`
 `data structures`
 `algorithms`
+`interviewing`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
@@ -138,6 +138,7 @@ Course(s) | Progress | University | Duration | Effort
 `software engineering`
 `Agile methodology`
 `REST`
+`DevOps`
 `software specifications`
 `refactoring`
 `relational databases`
@@ -147,7 +148,7 @@ Course(s) | Progress | University | Duration | Effort
 [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Not started yet | Youtube series | 2 weeks | 10 hours/week
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) | Not started yet | Youtube series | 2 weeks | 10 hours/week
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Not started yet | Youtube series | 2 weeks | 10 hours/week
-Devops - 
+[DevOps with Docker](https://devopswithdocker.com) | Not started yet | University of Helsinki | 6 weeks | 10 hours/week
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Not started yet | Youtube series | 6 weeks | 10 hours/week
 
 ## Advanced CS
@@ -155,10 +156,9 @@ Devops -
 ### Software Engineering
 
 **Topics covered**:
+`large-scale software architecture and design`
 `compilers`
 `debugging theory and practice`
-`large-scale software architecture and design`
-
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
