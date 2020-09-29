@@ -62,7 +62,7 @@ Progress | Course(s) | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Head First Java 2nd Edition O'Reilly](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208) | Finished | Literature | 5 weeks | 10 hours/week 
+ Finished | [Head First Java 2nd Edition O'Reilly](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208) | Literature | 5 weeks | 10 hours/week 
 
 ## Core CS
 
@@ -79,9 +79,9 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | Finished | University of Helsinki | 1 week | 8-10 hours/week
-[Java Progamming I](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Finished | University of Helsinki | 7 week | 15-20 hours/week
-[Java Programming II](https://www.coursera.org/learn/programming-languages) | Finished | University of Helsinki | 7 week | 15-20 hours/week
+ Finished | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
+ Finished | [Java Progamming I](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | University of Helsinki | 7 week | 15-20 hours/week
+ Finished | [Java Programming II](https://www.coursera.org/learn/programming-languages) | University of Helsinki | 7 week | 15-20 hours/week
 
 ### Core Math
 **Topics covered**:
@@ -91,11 +91,11 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Pre-University Calculus](https://www.edx.org/course/pre-university-calculus-2) | Not started yet | TU Delft | 8 weeks | 8 hours/week 
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | Not started yet |  MIT | 14 weeks | 12 hours/week 
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Not started yet | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Not started yet | 13 weeks | 5-10 hours/week | Calculus 1A | [chat](https://discord.gg/sddAsZg)
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Not started yet | 6 weeks | 5-10 hours/week | Calculus 1B | [chat](https://discord.gg/FNEcNNq)
+Not started yet | [Pre-University Calculus](https://www.edx.org/course/pre-university-calculus-2) | TU Delft | 8 weeks | 8 hours/week 
+Not started yet | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | MIT | 14 weeks | 12 hours/week 
+Not started yet | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 13 weeks | 6-10 hours/week | Pre-University Calculus
+Not started yet | [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 13 weeks | 5-10 hours/week | Calculus 1A 
+Not started yet | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | MIT | 6 weeks | 5-10 hours/week | Calculus 1B
 
 ### Core Systems and Security
 
@@ -110,10 +110,10 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Cyber Security Base: Introduction to Cyber Security](https://cybersecuritybase.mooc.fi/module-1) | Not started yet | Youtube series | 2 weeks | 8 hours/week 
-[Cyber Security Base: Securing Software](https://cybersecuritybase.mooc.fi/module-2.1) | Not started yet | Youtube series | 2 weeks | 8 hours/week 
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Not started yet | Hebrew University of Jerusalem | 6 weeks | 7-13 hours/week 
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | Not started yet | Hebrew University of Jerusalem | 6 weeks | 12-18 hours/week 
+Not started yet | [Cyber Security Base: Introduction to Cyber Security](https://cybersecuritybase.mooc.fi/module-1) | University of Helsinki | 2 weeks | 8 hours/week 
+Not started yet | [Cyber Security Base: Securing Software](https://cybersecuritybase.mooc.fi/module-2.1) | University of Helsinki | 2 weeks | 8 hours/week 
+Not started yet | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | 6 weeks | 7-13 hours/week 
+Not started yet | [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 12-18 hours/week 
 
 ### Core Theory
 
@@ -129,8 +129,8 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Data structures and algorithms](https://cybersecuritybase.mooc.fi/module-1) | Not started yet | Literature | 6 weeks | 12 hours/week  
-[Cracking the coding interview](https://cybersecuritybase.mooc.fi/module-1) | Not started yet | Literature | 12 weeks | 12 hours/week  
+In progress! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574 | Literature | 10 weeks | 12 hours/week  
+Not started yet | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
 
 ### Core Applications
 
@@ -145,11 +145,11 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Not started yet | Youtube series | 2 weeks | 10 hours/week
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) | Not started yet | Youtube series | 2 weeks | 10 hours/week
-[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Not started yet | Youtube series | 2 weeks | 10 hours/week
-[DevOps with Docker](https://devopswithdocker.com) | Not started yet | University of Helsinki | 6 weeks | 10 hours/week
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Not started yet | Youtube series | 6 weeks | 10 hours/week
+Not started yet | [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
+Not started yet | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) | Stanford | 2 weeks | 10 hours/week
+Not started yet | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
+Not started yet | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
+Not started yet | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | The University of British Columbia | 6 weeks | 10 hours/week
 
 ## Advanced CS
 
@@ -162,7 +162,7 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-[Compilers](https://www.edx.org/course/compilers) | Not started yet | 9 weeks | 6-8 hours/week | none
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Not started yet | 8 weeks | 6 hours/week | Python, object-oriented programming
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | Not started yet | 4 weeks | 6 hours/week | Python, programming experience
-[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Not started yet | 8 weeks | 6 hours/week | software engineering in Java
+Not started yet | [Compilers](https://www.edx.org/course/compilers) | Stanford | 9 weeks | 6-8 hours/week
+Not started yet | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 8 weeks | 6 hours/week
+Not started yet | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week
+Not started yet | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Udacity | 8 weeks | 6 hours/week
