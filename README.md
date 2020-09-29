@@ -1,12 +1,13 @@
-<h3 align="center">My Open Source CS Degree</h3>
-<p align="center">
-  My Open Source education in computer science
-</p>
 <p align="center">
   <a href="https://github.com/stefanluiken/my-open-source-cs">
 	<img alt="My Open Source CS Degree" src="open-cs.png">
   </a>
 </p>
+<h3 align="center">My Open Source CS Degree</h3>
+<p align="center">
+  My Open Source education in computer science
+</p>
+
 
 
 # Content
@@ -20,14 +21,12 @@ This program is designed according to the degree requirements of undergraduate c
 
 The curriculum is designed as follows:
 - *Intro CS*: giving a basic but broad overview of the computer science spectrum.
-- *Core CS*: classes that all computer science majors would be required to take
-- *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
-
-All or nearly all course material is available for free. However, some courses may charge money for assignments/tests/projects to be graded.
+- *Core CS*: classes that all computer science majors would be required to take.
+- *Advanced CS*: a specialization in software engineering.
 
 # Program
 
-**Program version**: `1.0.0`
+**Program version**: `1.0.`
 
 - [Basics CS](#intro-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -39,9 +38,8 @@ All or nearly all course material is available for free. However, some courses m
   - [Core Theory](#core-theory)
   - [Core applications](#core-applications)
 - [Advanced CS](#advanced-cs)
-  - [Core programming](#software-engineering)
+  - [Software Engineering](#software-engineering)
 ---
-
 
 ## Basics CS
 
@@ -54,7 +52,7 @@ All or nearly all course material is available for free. However, some courses m
 
 Course(s) | University | Duration | Effort
 :-- | :--: | :--: | :--:
-[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | Harvard | 12 weeks | 20 hours/week 
+[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) | Harvard University | 12 weeks | 20 hours/week 
 
 ### Introduction to Programming
 
@@ -79,11 +77,11 @@ Course(s) | University | Duration | Effort
 `data structures`
 `software design`
 
-Course(s) | University | Duration | Effort
-:-- | :--: | :--: | :--:
-[Computing Tools for CS Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
-[Java Progamming I](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | University of Helsinki | 7 week | 15-20 hours/week
-[Java Programming II](https://www.coursera.org/learn/programming-languages) | University of Helsinki | 7 week | 15-20 hours/week
+Course(s) | Status | University | Duration | Effort
+:-- | :--: | :--: | :--: | :--:
+[Computing Tools for CS Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | Finished | University of Helsinki | 1 week | 8-10 hours/week
+[Java Progamming I](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Finished | University of Helsinki | 7 week | 15-20 hours/week
+[Java Programming II](https://www.coursera.org/learn/programming-languages) | Finished | University of Helsinki | 7 week | 15-20 hours/week
 
 ### Core Math
 **Topics covered**:
@@ -95,7 +93,6 @@ Course(s) | University | Duration | Effort
 
 Course(s) | University | Duration | Effort
 :-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Youtube series | 2 weeks | 8 hours/week 
 [Pre-University Calculus](https://www.edx.org/course/pre-university-calculus-2) | TU Delft | 8 weeks | 8 hours/week 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) |  MIT | 14 weeks | 12 hours/week 
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
@@ -132,8 +129,8 @@ Course(s) | University | Duration | Effort
 
 Course(s) | University | Duration | Effort
 :-- | :--: | :--: | :--: 
-[Data structures and algorithms](https://cybersecuritybase.mooc.fi/module-1) | Youtube series | 2 weeks | 8 hours/week 
-[Cracking the coding interview](https://cybersecuritybase.mooc.fi/module-1) | Youtube series | 2 weeks | 8 hours/week 
+[Data structures and algorithms](https://cybersecuritybase.mooc.fi/module-1) | Literature | 6 weeks | 12 hours/week  
+[Cracking the coding interview](https://cybersecuritybase.mooc.fi/module-1) | Literature | 12 weeks | 12 hours/week  
 
 ### Core Applications
 
