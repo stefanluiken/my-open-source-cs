@@ -157,4 +157,4 @@ Course(s) | Progress | University | Duration | Effort
 Not started yet | [Compilers](https://www.edx.org/course/compilers) | Stanford | 9 weeks | 6-8 hours/week
 Not started yet | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 8 weeks | 6 hours/week
 Not started yet | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week
-Not started yet | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Udacity | 8 weeks | 6 hours/week
+Not started yet | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Georgia Tech | 8 weeks | 12 hours/week
