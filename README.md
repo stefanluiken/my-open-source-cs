@@ -22,7 +22,7 @@ This program is designed according to the degree requirements of undergraduate c
 The curriculum is designed as follows:
 - *Intro CS*: giving a basic but broad overview of the computer science spectrum.
 - *Core CS*: classes that all computer science majors would be required to take.
-- *Advanced CS*: a specialization in software engineering.
+- *Specialization CS*: a specialization in software engineering.
 
 # Program
 
