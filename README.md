@@ -94,8 +94,8 @@ Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  In progress ! | [Introduction to Cyber Security](https://cybersecuritybase.mooc.fi/module-1) | University of Helsinki | 2 weeks | 8 hours/week 
  Assigned | [Securing Software](https://cybersecuritybase.mooc.fi/module-2.1) | University of Helsinki | 2 weeks | 8 hours/week
- Assigned | [Securing Software](https://cybersecuritybase.mooc.fi/module-2.1) | University of Helsinki | 2 weeks | 8 hours/week
  Assigned | [Multithreading, Concurrency and Performance Optimization](https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/) | Udemy | 2 weeks | 4 hours/week 
+ Assigned | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | 6 weeks | 7-13 hours/week 
  Assigned | [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 12-18 hours/week 
  Assigned | [Introduction to Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | Stanford | 4 weeks | 7 hours/week 
  
