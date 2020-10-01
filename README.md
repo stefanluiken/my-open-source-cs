@@ -110,8 +110,9 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
 In progress ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
- Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
-
+Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
+Assigned | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=3OE7U5XLXOSUA&dchild=1&keywords=pragmatic+programmer&qid=1601587989&s=books&sprefix=pragma%2Cstripbooks-intl-ship%2C230&sr=1-1) | Literature | 4 weeks | 10 hours/week  
+ 
 ### Core Applications and Databases
 
 **Topics covered**:
