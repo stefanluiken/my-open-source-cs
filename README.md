@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.0.2`
+**Program version**: `1.0.3`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -124,7 +124,6 @@ Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Codin
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  In progress | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
- In progress | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | University of Helsinki | 4 weeks | 10 hours/week
