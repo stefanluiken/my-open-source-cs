@@ -79,6 +79,7 @@ Course(s) | Progress | University | Duration | Effort
  Finished ! | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
  Finished ! | [Java Progamming I](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
  Finished ! | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
+ Finished ! | [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/) | Udemy | 1 week | 8-10 hours/week
 
 ### Core Systems and Security
 
@@ -139,8 +140,8 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  In progress | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=3OE7U5XLXOSUA&dchild=1&keywords=pragmatic+programmer&qid=1601587989&s=books&sprefix=pragma%2Cstripbooks-intl-ship%2C230&sr=1-1) | Literature | 4 weeks | 6 hours/week  
- Assigned | [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH/ref=sr_1_1?dchild=1&keywords=effective+java&qid=1601845225&s=digital-text&sr=1-1) | Literature | 4 weeks | 6 hours/week  
- Assigned | [Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) | Literature | 4 weeks | 6 hours/week  
+ Assigned | [Effective Java Third Edition](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH/ref=sr_1_1?dchild=1&keywords=effective+java&qid=1601845225&s=digital-text&sr=1-1) | Literature | 4 weeks | 6 hours/week  
+ Assigned | [Design Patterns Second Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) | Literature | 4 weeks | 6 hours/week  
  Assigned | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?crid=OCOVUA7BKEI0&dchild=1&keywords=clean+code&qid=1601845289&s=digital-text&sprefix=clean+%2Cdigital-text%2C308&sr=1-1) | Literature | 4 weeks | 6 hours/week  
   
 ## Specialization CS
