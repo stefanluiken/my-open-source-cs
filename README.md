@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.0.5`
+**Program version**: `1.0.6`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -157,6 +157,7 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
+ Finished ! | [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/) | Udemy | 1 week | 10 hours/week
  Assigned | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | The University of British Columbia | 6 weeks | 10 hours/week
  Assigned | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 8 weeks | 6 hours/week
  Assigned | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week
