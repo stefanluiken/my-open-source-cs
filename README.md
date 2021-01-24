@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.0.7`
+**Program version**: `1.1.0`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -88,8 +88,8 @@ Course(s) | Progress | University | Duration | Effort
 `memory`
 `assembly`
 `operating systems`
-`Secure Design`
-`Network Security`
+`secure design`
+`network security`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
@@ -111,6 +111,7 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
 Finished ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
+Assigned | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
 Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
 
 ### Core Applications and Databases
@@ -118,7 +119,7 @@ Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Codin
 **Topics covered**:
 `databases`
 `software engineering`
-`Agile methodology`
+`agile methodology`
 `DevOps`
 `refactoring`
 
@@ -155,8 +156,20 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- Finished ! | [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/) | Udemy | 1 week | 10 hours/week
+ Assigned | [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity | 4 weeks | 2.5 hours/week
  Assigned | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | The University of British Columbia | 6 weeks | 10 hours/week
  Assigned | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 8 weeks | 6 hours/week
  Assigned | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week
  Assigned | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Georgia Tech | 8 weeks | 12 hours/week
+
+### Mobile App Development
+
+**Topics covered**:
+`Android development`
+`Java`
+`Gradle`
+`object-oriented design`
+
+Course(s) | Progress | University | Duration | Effort
+:-- | :--: | :--: | :--: | :--:
+In progress | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 3 months | 10 hours/week
