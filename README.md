@@ -39,6 +39,7 @@ The curriculum is designed as follows:
   - [Core Additional Readings](#core-additional-readings)
 - [Specialization CS](#specialization-cs)
   - [Software Engineering](#software-engineering)
+  - [Mobile App Development](#mobile-app-development)
 ---
 
 ## Basics CS
