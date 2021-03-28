@@ -111,9 +111,9 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-Finished ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
-Assigned | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
-Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
+ Finished ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
+ Assigned | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
+ Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
 
 ### Core Applications and Databases
 
@@ -126,11 +126,11 @@ Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Codin
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-In progress | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | University of Helsinki | 4 weeks | 10 hours/week
-Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
-Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
-Assigned | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
-Assigned | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
+ In progress | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | University of Helsinki | 4 weeks | 10 hours/week
+ Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
+ Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
+ Assigned | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
+ Assigned | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
 
 ### Core Additional Readings
 
@@ -173,4 +173,5 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-In progress | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 3 months | 10 hours/week
+ In progress | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 3 months | 10 hours/week
+ Assigned | [Android Developer Nanodegree by Google (Java)](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) | Udacity | 4 months | 10 hours/week
