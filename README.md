@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.1.1`
+**Program version**: `1.1.2`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -173,5 +173,4 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- In progress | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 3 months | 10 hours/week
- Assigned | [Android Developer Nanodegree by Google (Java)](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) | Udacity | 4 months | 10 hours/week
+ Finished ! | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 3 months | 10 hours/week
