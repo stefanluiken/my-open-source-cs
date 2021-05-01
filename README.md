@@ -17,7 +17,7 @@
 
 # Summary
 
-This program is designed according to the degree requirements of undergraduate computer science majors from top universities. All courses included in this program, originate from the world's top educational institutions in the field of computer science, such as Harvard, MIT, and University of Helsinki.
+OPENCS is an opensource computer science curriculum. This program is designed according to the degree requirements of undergraduate computer science majors from top universities. All courses included in this program, originate from the world's top educational institutions in the field of computer science, such as Harvard, and University of Helsinki.
 
 The curriculum is designed as follows:
 - *Intro CS*: giving a basic but broad overview of the computer science spectrum.
@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.1.3`
+**Program version**: `1.1.4`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
