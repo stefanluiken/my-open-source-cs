@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.1.4`
+**Program version**: `1.1.5`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -39,7 +39,7 @@ The curriculum is designed as follows:
   - [Core Additional Readings](#core-additional-readings)
 - [Specialization CS](#specialization-cs)
   - [Software Engineering](#software-engineering)
-  - [Mobile App Development](#mobile-app-development)
+  - [Web and App Development](#web-and-app-development)
 ---
 
 ## Basics CS
@@ -78,8 +78,8 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
- Finished ! | [Java Progamming I](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
- Finished ! | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 week | 15-20 hours/week
+ Finished ! | [Java Progamming I](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
+ Finished ! | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
  Finished ! | [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/) | Udemy | 1 week | 8-10 hours/week
 
 ### Core Systems and Security
@@ -163,14 +163,17 @@ Course(s) | Progress | University | Duration | Effort
  Assigned | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week
  Assigned | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Georgia Tech | 8 weeks | 12 hours/week
 
-### Mobile App Development
+### Web and App Development
 
 **Topics covered**:
 `Android development`
 `Java`
 `Gradle`
-`object-oriented design`
+`Fullstack web development`
+`JavaScript`
+`React`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 3 months | 10 hours/week
+ Assigned | [Full stack open 2021 Bootcamp](https://fullstackopen.com/en/) | University of Helsinki | 3 months | 10 hours/week
