@@ -159,8 +159,8 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Assigned | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | The University of British Columbia | 6 weeks | 10 hours/week
- Assigned | [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) | MIT | 10 weeks | 10 hours/week
- Assigned | [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) | MIT | 10 weeks | 10 hours/week
+ Assigned | [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) | MIT | 10 weeks | 15 hours/week
+ Assigned | [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) | MIT | 15 weeks | 10 hours/week
  Assigned | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 8 weeks | 6 hours/week
  Assigned | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week
  Assigned | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Georgia Tech | 8 weeks | 12 hours/week
@@ -177,5 +177,5 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- Finished ! | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 3 months | 10 hours/week
- Assigned | [Full stack open 2021 Bootcamp](https://fullstackopen.com/en/) | University of Helsinki | 3 months | 10 hours/week
+ Finished ! | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 12 weeks | 10 hours/week
+ Assigned | [Full stack open 2021 Web Development Bootcamp](https://fullstackopen.com/en/) | University of Helsinki | 12 weeks | 10 hours/week
