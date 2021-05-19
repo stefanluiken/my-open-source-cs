@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.1.6`
+**Program version**: `1.1.7`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -126,12 +126,12 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- In progress | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | University of Helsinki | 4 weeks | 10 hours/week
- Assigned | [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity | 4 weeks | 2.5 hours/week
- Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
+Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Postgresql: Up and Running](https://www.amazon.nl/dp/B076C4WLBP/ref=dp_kinw_strp_1) | Literature | 2 weeks | 10 hours/week
+ Assigned | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
+ Assigned | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Assigned | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
 
 ### Core Additional Readings
@@ -179,4 +179,4 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Android Basics Nanodegree by Google (Java)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 12 weeks | 10 hours/week
- Assigned | [Full stack open 2021 Web Development Bootcamp](https://fullstackopen.com/en/) | University of Helsinki | 12 weeks | 10 hours/week
+ Assigned | [Full Stack open 2021](https://fullstackopen.com/en/) | University of Helsinki | 12 weeks | 10 hours/week
