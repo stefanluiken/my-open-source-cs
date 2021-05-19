@@ -80,7 +80,6 @@ Course(s) | Progress | University | Duration | Effort
  Finished ! | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
  Finished ! | [Java Progamming I](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
  Finished ! | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
- Finished ! | [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/) | Udemy | 1 week | 8-10 hours/week
  Assigned | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Assigned | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
 
