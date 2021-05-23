@@ -78,7 +78,7 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
- Finished ! | [Java Progamming I](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
+ Finished ! | [Java Programming I](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
  Finished ! | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
  In progress | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Assigned | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
@@ -127,7 +127,7 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
-Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
+ Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Postgresql: Up and Running](https://www.amazon.nl/dp/B076C4WLBP/ref=dp_kinw_strp_1) | Literature | 2 weeks | 20 hours/week
