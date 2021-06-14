@@ -108,7 +108,6 @@ Course(s) | Progress | University | Duration | Effort
 `O-notation`
 `data structures`
 `algorithms`
-`interviewing`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
