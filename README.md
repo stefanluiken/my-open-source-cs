@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.1.8`
+**Program version**: `1.1.9`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -35,7 +35,7 @@ The curriculum is designed as follows:
   - [Core Programming](#core-programming)
   - [Core Systems and Security](#core-systems-and-security)
   - [Core Theory](#core-theory)
-  - [Core Applications and Databases](#core-applications-and-databases)
+  - [Databases and Core Applications](#databases-and-core-applications)
   - [Core Additional Readings](#core-additional-readings)
 - [Specialization CS](#specialization-cs)
   - [Software Engineering](#software-engineering)
@@ -71,8 +71,6 @@ Course(s) | Progress | University | Duration | Effort
 **Topics covered**:
 `object-oriented design`
 `Java`
-`command line`
-`Git`
 `IDE`
 
 Course(s) | Progress | University | Duration | Effort
@@ -80,8 +78,6 @@ Course(s) | Progress | University | Duration | Effort
  Finished ! | [Computing Tools for Computer Science Studies](https://courses.helsinki.fi/en/aytkt50003en/136459952) | University of Helsinki | 1 week | 8-10 hours/week
  Finished ! | [Java Programming I](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
  Finished ! | [Java Programming II](https://java-programming.mooc.fi) | University of Helsinki | 7 weeks | 15-20 hours/week
- Finished ! | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
- In progress | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
 
 ### Core Systems and Security
 
@@ -115,21 +111,22 @@ Course(s) | Progress | University | Duration | Effort
  In progress | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
  Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
 
-### Core Applications and Databases
+### Databases and Core Applications
 
 **Topics covered**:
 `databases`
-`software engineering`
-`agile methodology`
+`command line`
+`Git`
 `DevOps`
-`refactoring`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
  Assigned | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
- Assigned | [Postgresql: Up and Running](https://www.amazon.nl/dp/B076C4WLBP/ref=dp_kinw_strp_1) | Literature | 2 weeks | 20 hours/week
+ In progress | [Postgresql: Up and Running](https://www.amazon.nl/dp/B076C4WLBP/ref=dp_kinw_strp_1) | Literature | 2 weeks | 20 hours/week
+ Finished ! | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
+ Finished ! | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Assigned | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
 
 ### Core Additional Readings
