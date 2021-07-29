@@ -127,7 +127,7 @@ Course(s) | Progress | University | Duration | Effort
  In progress | [Postgresql: Up and Running](https://www.amazon.nl/dp/B076C4WLBP/ref=dp_kinw_strp_1) | Literature | 2 weeks | 20 hours/week
  Finished ! | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Finished ! | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
- Assigned | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
+ In progress | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
 
 ### Core Additional Readings
 
