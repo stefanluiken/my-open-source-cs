@@ -26,7 +26,7 @@ The curriculum is designed as follows:
 
 # Program
 
-**Program version**: `1.1.9`
+**Program version**: `1.2.0`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -108,7 +108,7 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
- In progress | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
+ Assigned | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
  Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
 
 ### Databases and Core Applications
@@ -121,13 +121,14 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
- Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
- Assigned | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
- In progress | [Postgresql: Up and Running](https://www.amazon.nl/dp/B076C4WLBP/ref=dp_kinw_strp_1) | Literature | 2 weeks | 20 hours/week
  Finished ! | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Finished ! | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
- In progress | [DevOps with Docker](https://devopswithdocker.com) | University of Helsinki | 6 weeks | 10 hours/week
+ Finished ! | [Docker Mastery](https://www.udemy.com/course/docker-mastery/) | Udemy | 2 weeks | 10 hours/week 
+ In progress | [Apache Kafka](https://www.udemy.com/course/apache-kafka/) | Udemy | 2 weeks | 10 hours/week 
+ Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
+ Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
+ Finished ! | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
+ In progress | [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) | Udemy | 2 weeks | 20 hours/week
 
 ### Core Additional Readings
 
