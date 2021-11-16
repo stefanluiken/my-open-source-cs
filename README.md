@@ -123,8 +123,8 @@ Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) | Udemy | 2 weeks | 10 hours/week
  Finished ! | [The Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/) | Udemy | 2 weeks | 10 hours/week
- Finished ! | [Docker Mastery](https://www.udemy.com/course/docker-mastery/) | Udemy | 2 weeks | 10 hours/week 
- In progress | [Apache Kafka](https://www.udemy.com/course/apache-kafka/) | Udemy | 2 weeks | 10 hours/week 
+ Finished ! | [Docker Mastery: Complete toolset](https://www.udemy.com/course/docker-mastery/) | Udemy | 2 weeks | 10 hours/week 
+ In progress | [Apache Kafka Series: Kafka v2 for beginners](https://www.udemy.com/course/apache-kafka/) | Udemy | 2 weeks | 10 hours/week 
  Finished ! | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
