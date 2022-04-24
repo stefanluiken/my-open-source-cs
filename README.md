@@ -178,5 +178,5 @@ Course(s) | Progress | University | Duration | Effort
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
- Finished ! | [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 12 weeks | 10 hours/week
- Assigned | [Full stack open 2022](https://fullstackopen.com/en/) | University of Helsinki | 12 weeks | 10 hours/week
+ Finished ! | [Nanodegree: Android Basics](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 12 weeks | 10 hours/week
+ Assigned | [Bootcamp: Full stack open 2022](https://fullstackopen.com/en/) | University of Helsinki | 12 weeks | 10 hours/week
