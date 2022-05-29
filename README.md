@@ -41,7 +41,7 @@ Within the curriculum we chose to focus primarily on Java and Python as the used
   - [Core Additional Readings](#core-additional-readings)
 - [Specialization CS](#specialization-cs)
   - [Software Engineering](#software-engineering)
-  - [Web and App Development](#web-and-app-development)
+  - [App Development](#web-and-app-development)
 ---
 
 ## Basics CS
@@ -110,9 +110,8 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
- In progress | [System Design Interview: An insider's guide](https://www.amazon.nl/System-Design-Interview-insiders-guide/dp/B08CMF2CQF/ref=sr_1_2?__mk_nl_NL=ÅMÅŽÕÑ&crid=RWPX24HYZU04&keywords=System+Design+Interview+–+An+insider%27s+guide&qid=1649541893&sprefix=system+design+interview+an+insider%27s+guide%2Caps%2C94&sr=8-2) | Literature | 4 weeks | 6 hours/week
+ Finished ! | [System Design Interview: An insider's guide](https://www.amazon.nl/System-Design-Interview-insiders-guide/dp/B08CMF2CQF/ref=sr_1_2?__mk_nl_NL=ÅMÅŽÕÑ&crid=RWPX24HYZU04&keywords=System+Design+Interview+–+An+insider%27s+guide&qid=1649541893&sprefix=system+design+interview+an+insider%27s+guide%2Caps%2C94&sr=8-2) | Literature | 4 weeks | 6 hours/week
  Assigned | [Design Patterns Second Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) | Literature | 4 weeks | 6 hours/week
- Assigned | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
  Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
  
 ### Databases and Core Applications
@@ -148,7 +147,8 @@ Course(s) | Progress | University | Duration | Effort
  Finished ! | [Effective Java Third Edition](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH/ref=sr_1_1?dchild=1&keywords=effective+java&qid=1601845225&s=digital-text&sr=1-1) | Literature | 4 weeks | 6 hours/week
  Assigned | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?crid=OCOVUA7BKEI0&dchild=1&keywords=clean+code&qid=1601845289&s=digital-text&sprefix=clean+%2Cdigital-text%2C308&sr=1-1) | Literature | 4 weeks | 6 hours/week
  Finished ! | [The Missing README](https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838?ref_=ast_slp_dp) | Literature | 3 months | 2 hours/week  
- In progress | [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) | Literature | 3 months | 2 hours/week  
+ In progress | [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) | Literature | 3 months | 2 hours/week
+ Assigned | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
  
 ## Specialization CS
 
