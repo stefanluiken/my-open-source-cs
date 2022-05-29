@@ -24,9 +24,11 @@ The curriculum is designed as follows:
 - *Core CS*: classes that all computer science majors would require to take.
 - *Specialization CS*: a specialization in software engineering.
 
+Within the curriculum we chose to focus primarily on Java and Python as the used programming languages.
+
 # Program
 
-**Program version**: `1.2.0`
+**Program version**: `1.3.0`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -93,24 +95,26 @@ Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [API and Web Service Introduction](https://www.udemy.com/course/api-and-web-service-introduction/) | Udemy | 1 week | 8 hours/week 
  Assigned | [Introduction to Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | Stanford | 4 weeks | 7 hours/week 
- Assigned | [Cyber Security Base: Introduction to Cyber Security](https://cybersecuritybase.mooc.fi/module-1) | University of Helsinki | 2 weeks | 8 hours/week 
- Assigned | [Cyber Security Base: Securing Software](https://cybersecuritybase.mooc.fi/module-2.1) | University of Helsinki | 2 weeks | 8 hours/week
+ Assigned | [Cyber Security Base: Introduction to Cyber Security](https://cybersecuritybase.mooc.fi/module-1) | University of Helsinki | 2 weeks | 8 hours/week
  Assigned | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | 6 weeks | 7-13 hours/week 
  
 ### Core Theory
 
 **Topics covered**:
-`sorting and searching`
 `O-notation`
 `data structures`
 `algorithms`
+`system design`
+`design patterns`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Problem Solving with Algorithms and Data Structures Using Python](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574) | Literature | 10 weeks | 12 hours/week  
+ In progress | [System Design Interview: An insider's guide](https://www.amazon.nl/System-Design-Interview-insiders-guide/dp/B08CMF2CQF/ref=sr_1_2?__mk_nl_NL=ÅMÅŽÕÑ&crid=RWPX24HYZU04&keywords=System+Design+Interview+–+An+insider%27s+guide&qid=1649541893&sprefix=system+design+interview+an+insider%27s+guide%2Caps%2C94&sr=8-2) | Literature | 4 weeks | 6 hours/week
  Assigned | [Design Patterns Second Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) | Literature | 4 weeks | 6 hours/week
  Assigned | [OCA: Oracle Certified Associate Java SE 8 Programmer](https://www.amazon.nl/OCA-Certified-Associate-Programmer-1Z0-808/dp/1118957407/ref=asc_df_1118957407/?tag=nlshogostdde-21&linkCode=df0&hvadid=430605344342&hvpos=&hvnetw=g&hvrand=17230325203133114130&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-394932352707&psc=1) | Literature | 8 weeks | 20 hours/week
-
+ Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
+ 
 ### Databases and Core Applications
 
 **Topics covered**:
@@ -118,6 +122,7 @@ Course(s) | Progress | University | Duration | Effort
 `command line`
 `Git`
 `DevOps`
+`containers`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
@@ -134,25 +139,23 @@ Course(s) | Progress | University | Duration | Effort
 
 **Topics covered**:
 `software engineering`
-`design patterns`
 `best practices`
+`personal development`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=3OE7U5XLXOSUA&dchild=1&keywords=pragmatic+programmer&qid=1601587989&s=books&sprefix=pragma%2Cstripbooks-intl-ship%2C230&sr=1-1) | Literature | 4 weeks | 6 hours/week  
  Finished ! | [Effective Java Third Edition](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH/ref=sr_1_1?dchild=1&keywords=effective+java&qid=1601845225&s=digital-text&sr=1-1) | Literature | 4 weeks | 6 hours/week
+ Assigned | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?crid=OCOVUA7BKEI0&dchild=1&keywords=clean+code&qid=1601845289&s=digital-text&sprefix=clean+%2Cdigital-text%2C308&sr=1-1) | Literature | 4 weeks | 6 hours/week
  Finished ! | [The Missing README](https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838?ref_=ast_slp_dp) | Literature | 3 months | 2 hours/week  
  In progress | [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) | Literature | 3 months | 2 hours/week  
- In progress | [System Design Interview: An insider's guide](https://www.amazon.nl/System-Design-Interview-insiders-guide/dp/B08CMF2CQF/ref=sr_1_2?__mk_nl_NL=ÅMÅŽÕÑ&crid=RWPX24HYZU04&keywords=System+Design+Interview+–+An+insider%27s+guide&qid=1649541893&sprefix=system+design+interview+an+insider%27s+guide%2Caps%2C94&sr=8-2) | Literature | 4 weeks | 6 hours/week
- Assigned | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?crid=OCOVUA7BKEI0&dchild=1&keywords=clean+code&qid=1601845289&s=digital-text&sprefix=clean+%2Cdigital-text%2C308&sr=1-1) | Literature | 4 weeks | 6 hours/week
- Assigned | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+coding+interview%5D&qid=1601415898&s=books&sr=1-1) | Literature | 12 weeks | 20 hours/week  
-
-
+ 
 ## Specialization CS
 
 ### Software Engineering
 
 **Topics covered**:
+`software engineering`
 `large-scale software architecture and design`
 `compilers`
 `debugging theory and practice`
@@ -163,20 +166,14 @@ Course(s) | Progress | University | Duration | Effort
  Assigned | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 8 weeks | 6 hours/week
  Assigned | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week
  Assigned | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Georgia Tech | 8 weeks | 12 hours/week
- Assigned | [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) | MIT | 10 weeks | 15 hours/week
- Assigned | [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) | MIT | 15 weeks | 10 hours/week
 
-### App and Web Development
+### App Development
 
 **Topics covered**:
 `Android development`
 `Java`
 `Gradle`
-`Fullstack web development`
-`JavaScript`
-`React`
 
 Course(s) | Progress | University | Duration | Effort
 :-- | :--: | :--: | :--: | :--:
  Finished ! | [Nanodegree: Android Basics](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity | 12 weeks | 10 hours/week
- In progress | [Bootcamp: Full stack open 2022](https://fullstackopen.com/en/) | University of Helsinki | 12 weeks | 10 hours/week
