@@ -41,7 +41,7 @@ Within the curriculum we chose to focus primarily on Java and Python as the used
   - [Core Additional Readings](#core-additional-readings)
 - [Specialization CS](#specialization-cs)
   - [Software Engineering](#software-engineering)
-  - [App Development](#web-and-app-development)
+  - [App Development](#app-development)
 ---
 
 ## Basics CS
