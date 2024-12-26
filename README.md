@@ -162,8 +162,6 @@ Course(s) | Progress | University | Duration | Effort
 :-- |:--:| :--: |:--------:| :--:
 In progress | [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)  | Literature | 3 months | 4 hours/week
  Assigned | [Head First Software Architecture](https://www.amazon.com/Head-First-Software-Architecture-Architectural/dp/1098134354) | Literature | 6 weeks  | 10 hours/week
- Assigned | [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-distributed-applications/dp/1838430202) | Literature | 6 weeks  | 10 hours/week
- Assigned | [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) | Literature | 8 weeks  | 10 hours/week
 
 ### App Development
 
