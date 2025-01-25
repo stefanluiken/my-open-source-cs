@@ -161,7 +161,7 @@ Course(s) | Progress | University | Duration | Effort
 Course(s) | Progress | University | Duration | Effort
 :-- |:--:| :--: |:--------:| :--:
 In progress | [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)  | Literature | 3 months | 4 hours/week
- Assigned | [Head First Software Architecture](https://www.amazon.com/Head-First-Software-Architecture-Architectural/dp/1098134354) | Literature | 6 weeks  | 10 hours/week
+ Finished ! | [Head First Software Architecture](https://www.amazon.com/Head-First-Software-Architecture-Architectural/dp/1098134354) | Literature | 6 weeks  | 10 hours/week
 
 ### App Development
 
