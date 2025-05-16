@@ -28,7 +28,7 @@ Within the curriculum we chose to focus primarily on Java and Python as the used
 
 # Program
 
-**Program version**: `1.4.0`
+**Program version**: `1.5.0`
 
 - [Basics CS](#basics-cs)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -132,6 +132,18 @@ Course(s) | Progress | University | Duration | Effort
  Finished ! | [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) | Udemy | 2 weeks | 20 hours/week
+
+### Artificial Intelligence (AI)
+
+**Topics covered**:
+`Artificial intelligence`
+`Python`
+`algorithms`
+
+Course(s) |                                   Progress                                   | University | Duration | Effort
+:-- |:----------------------------------------------------------------------------:| :--: |:--------:| :--:
+ Assigned |                            [Introduction to AI](https://www.elementsofai.com)                            | University of Helsinki | 7 weeks  | 10 hours/week
+ Assigned | [Building AI](https://www.elementsofai.com) | University of Helsinki | 7 weeks  | 10 hours/week
 
 ### Core Readings
 
