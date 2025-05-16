@@ -38,6 +38,7 @@ Within the curriculum we chose to focus primarily on Java and Python as the used
   - [Core Systems and Security](#core-systems-and-security)
   - [Core Theory](#core-theory)
   - [Databases and Core Applications](#databases-and-core-applications)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [Core Readings](#core-readings)
 - [Specialization CS](#specialization-cs)
   - [Software Architecture Readings](#software-architecture-readings)
@@ -133,7 +134,7 @@ Course(s) | Progress | University | Duration | Effort
  Finished ! | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | Stanford | 2 weeks | 10 hours/week
  Finished ! | [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) | Udemy | 2 weeks | 20 hours/week
 
-### Artificial Intelligence (AI)
+### Artificial Intelligence
 
 **Topics covered**:
 `Artificial intelligence`
